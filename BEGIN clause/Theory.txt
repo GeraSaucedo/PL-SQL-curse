@@ -1,0 +1,20 @@
+THE BEGIN CLAUSE
+- Manupulate internal program data
+- Manioulate Database data elements
+- Using RegEx
+- Handling literal Values
+- Accessing Database Objects
+- Logic control and branching
+
+the begin clause is where processing is performed
+- Access data using SQL
+- Data manipulation
+- Standar logic and branching
+
+There are several tehinques we will consider:
+- Referece basic (scalar) variables and composite types
+- Hndling string literals withing the program
+- Using SQL DML to reference database colums
+
+
+

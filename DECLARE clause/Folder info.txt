@@ -1,0 +1,4 @@
+This folder contains information about:
+- How to declare simple variables
+- Kinds of variables
+- How to declare Complex variable(record, %rowtype, %type, table, user-defined, etc)
