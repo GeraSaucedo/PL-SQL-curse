@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------
+-- 			TYPES OF EXCEPTIONS 				--
+--------------------------------------------------------------------------
+/*
+	eXCEPTIONS WHICH MIGHT OCCUR DURING PROCESSING may be 
+	classified according to the follogin categories:
+	
+	Error TYPE:
+	- program proccessing: Error which occur during the execution of the program
+	- Internal Oracle: Error which arise from the oracle enviromment
+	- User declared: Errors aticipated which you wish to trap and intentionally
+			 transfer execution from the BEGIN clause to the EXCEPTION clause
+
+
+	THERE ARE SEVERAL IMPORTANT POINT PERTAINING TO PROCESSING EXCEPTIONS:
+	- Virtually anithing that can be done in the BEGIN clause
+	- Once control has been passed to the EXCEPTION clause, control cannot be passed back
+	  the BEGIN clause
+	- When an exception is detected, control is pased to the EXCEPTION clause
+
+
+*/
